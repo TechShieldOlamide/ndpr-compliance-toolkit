@@ -1,4 +1,4 @@
-# NDPR Compliance Checklist
+# NDPA 2023 Compliance Checklist
 
 **Version:** 1.0  
 **Last Updated:** June 2026  
@@ -77,7 +77,7 @@
 ## 7. Data Breach Management
 
 - [ ] Data breach response procedure documented
-- [ ] Breach notification process to NITDA within 72 hours
+- [ ] Breach notification process to NDPC within 72 hours
 - [ ] Breach notification process to affected individuals documented
 - [ ] Breach register maintained
 - [ ] All breaches and near misses logged
@@ -102,10 +102,10 @@
 
 ---
 
-## 10. NITDA Registration
+## 10. NDPC Registration
 
-- [ ] Organisation registered with NITDA if required
-- [ ] Annual data protection audit filed with NITDA
+- [ ] Organisation registered with NDPC if required
+- [ ] Annual data protection audit filed with NDPC
 - [ ] Licensed Data Protection Compliance Organisation engaged if required
 
 ---
@@ -123,7 +123,7 @@
 | Breach Management | | | |
 | Data Retention | | | |
 | Third Party Processors | | | |
-| NITDA Registration | | | |
+| NDPC Registration | | | |
 
 ---
 
