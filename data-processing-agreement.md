@@ -39,7 +39,7 @@ Together referred to as the Parties.
 
 ## 1. Background
 
-The Controller wishes to engage the Processor to provide [describe the service]. In the course of providing this service the Processor will process personal data on behalf of the Controller. This agreement sets out the terms under which such processing will take place in accordance with the Nigeria Data Protection Regulation (NDPR) 2019 and the Nigeria Data Protection Act 2023.
+The Controller wishes to engage the Processor to provide [describe the service]. In the course of providing this service the Processor will process personal data on behalf of the Controller. This agreement sets out the terms under which such processing will take place in accordance with the Nigeria Data Protection Act (NDPA) 2023 and enforced by the National Data Protection Commission (NDPC).
 
 ---
 
@@ -108,7 +108,7 @@ The Controller agrees to:
 
 **6.3** Notify the Processor of any changes to processing instructions promptly.
 
-**6.4** Ensure that data subjects have been informed of the processing in accordance with NDPR requirements.
+**6.4** Ensure that data subjects have been informed of the processing in accordance with NDPA 2023 requirements.
 
 ---
 
@@ -142,7 +142,7 @@ In the event of a personal data breach the Processor must:
 
 1. Notify the Controller within 24 hours of becoming aware
 2. Provide full details of the breach including nature, data affected, and measures taken
-3. Cooperate fully with the Controller in managing the breach and notifying NITDA
+3. Cooperate fully with the Controller in managing the breach and notifying NDPC
 
 ---
 
@@ -158,7 +158,7 @@ Upon termination of this agreement the Processor must within 30 days:
 
 ## 11. Governing Law
 
-This agreement is governed by the laws of the Federal Republic of Nigeria including the NDPR 2019 and the Nigeria Data Protection Act 2023.
+This agreement is governed by the laws of the Federal Republic of Nigeria including the Nigeria Data Protection Act (NDPA) 2023 and enforced by the National Data Protection Commission (NDPC).
 
 ---
 
