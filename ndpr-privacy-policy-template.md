@@ -1,4 +1,4 @@
-# Privacy Policy Template (NDPR Compliant)
+# Privacy Policy Template (NDPA 2023 Compliant)
 
 **Version:** 1.0  
 **Last Updated:** June 2026  
@@ -19,7 +19,7 @@
 
 ## 1. Introduction
 
-[Organisation Name] is committed to protecting the personal data of our users in accordance with the Nigeria Data Protection Regulation (NDPR) 2019 and the Nigeria Data Protection Act 2023.
+[Organisation Name] is committed to protecting the personal data of our users in accordance with the Nigeria Data Protection Act (NDPA) 2023 and enforced by the National Data Protection Commission (NDPC).
 
 This privacy policy explains what personal data we collect, why we collect it, how we use it, and your rights as a data subject.
 
@@ -109,7 +109,7 @@ We do not sell your personal data to third parties.
 
 ## 7. International Data Transfers
 
-Where we transfer your personal data outside Nigeria we ensure adequate protections are in place in accordance with NDPR requirements including data processing agreements and adequacy assessments.
+Where we transfer your personal data outside Nigeria we ensure adequate protections are in place in accordance with NDPA 2023 requirements including data processing agreements and adequacy assessments.
 
 ---
 
@@ -128,7 +128,7 @@ We retain your personal data for as long as necessary to fulfil the purposes des
 
 ## 9. Your Rights
 
-Under the NDPR you have the following rights:
+Under the NDPA 2023 you have the following rights:
 
 - **Right to access** — request a copy of your personal data
 - **Right to correction** — request correction of inaccurate data
@@ -169,7 +169,7 @@ If you have questions about this privacy policy or wish to exercise your data su
 **Address:** [Organisation Address]  
 **Data Protection Officer:** [DPO Contact if applicable]  
 
-You also have the right to lodge a complaint with NITDA at www.nitda.gov.ng.
+You also have the right to lodge a complaint with the National Data Protection Commission (NDPC) at www.ndpc.gov.ng.
 
 ---
 
