@@ -8,17 +8,17 @@
 
 > **How to use this template:**
 > This template contains two notification letters.
-> Letter A is for notifying NITDA of a data breach.
+> Letter A is for notifying NDPC of a data breach.
 > Letter B is for notifying affected individuals.
 > Replace all text in square brackets with your specific information.
-> NITDA must be notified within 72 hours of becoming aware of a breach.
+> NDPC must be notified within 72 hours of becoming aware of a breach.
 
 ---
 
-## Letter A — NITDA Breach Notification
+## Letter A — NDPC Breach Notification
 
-**To:** National Information Technology Development Agency (NITDA)  
-**Email:** ndpr@nitda.gov.ng  
+**To:** National Data Protection Commission (NDPC)  
+**Email:** info@ndpc.gov.ng  
 **Date:** [Date of Notification]  
 **Reference:** [Internal Breach Reference Number]  
 
@@ -28,7 +28,7 @@
 
 Dear Sir/Madam,
 
-In accordance with the Nigeria Data Protection Regulation (NDPR) 2019 and the Nigeria Data Protection Act 2023, we are hereby notifying NITDA of a personal data breach affecting our organisation.
+In accordance with the Nigeria Data Protection Act (NDPA) 2023, we are hereby notifying the NDPC of a personal data breach affecting our organisation.
 
 **1. Organisation Details**
 
@@ -129,7 +129,7 @@ We recommend you take the following steps to protect yourself:
 You have the right to:
 - Request access to your personal data we hold
 - Request correction or deletion of your personal data
-- Lodge a complaint with NITDA at www.nitda.gov.ng
+- Lodge a complaint with the NDPC at www.ndpc.gov.ng
 
 **Contact us**
 
@@ -154,8 +154,8 @@ Yours sincerely,
 
 - [ ] Breach contained and initial investigation complete
 - [ ] Breach reference number assigned
-- [ ] NITDA notified within 72 hours
-- [ ] NITDA notification logged with date and time sent
+- [ ] NDPC notified within 72 hours
+- [ ] NDPC notification logged with date and time sent
 - [ ] Affected individuals identified
 - [ ] Individual notifications prepared and sent
 - [ ] Individual notifications logged
