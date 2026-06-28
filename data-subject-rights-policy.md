@@ -10,7 +10,7 @@
 
 ## 1. Purpose
 
-This policy defines the process for handling data subject rights requests under the Nigeria Data Protection Regulation (NDPR) 2019 and the Nigeria Data Protection Act 2023. It ensures that all requests are handled consistently, promptly, and in compliance with regulatory requirements.
+This policy defines the process for handling data subject rights requests under the Nigeria Data Protection Act (NDPA) 2023 and enforced by the National Data Protection Commission (NDPC). It ensures that all requests are handled consistently, promptly, and in compliance with regulatory requirements.
 
 ---
 
@@ -20,7 +20,7 @@ This policy applies to all personal data held by the organisation and all staff 
 
 ---
 
-## 3. Data Subject Rights Under NDPR
+## 3. Data Subject Rights Under NDPA 2023
 
 | Right | Description |
 |---|---|
@@ -104,61 +104,4 @@ Accepted verification methods:
 
 ### 7.5 Right to Withdraw Consent
 
-1. Process withdrawal immediately upon receipt
-2. Stop all processing based on consent
-3. Confirm withdrawal to the data subject in writing
-4. Note that withdrawal does not affect processing already completed
-
-### 7.6 Right to Object
-
-1. Assess the grounds for objection
-2. Stop processing unless compelling legitimate grounds exist
-3. Respond to the data subject within 30 days
-4. Document the decision and reasoning
-
----
-
-## 8. Requests That Can Be Refused
-
-The organisation may refuse a request where:
-
-- The request is manifestly unfounded or excessive
-- Fulfilling the request would conflict with a legal obligation
-- The request relates to data processed for law enforcement purposes
-
-All refusals must be documented with clear reasoning and communicated to the data subject within 30 days.
-
----
-
-## 9. Request Register
-
-All data subject requests must be logged in the request register:
-
-| ID | Date Received | Request Type | Data Subject | Status | Date Responded | Outcome |
-|---|---|---|---|---|---|---|
-| | | | | | | |
-| | | | | | | |
-
----
-
-## 10. Staff Responsibilities
-
-All staff who receive a data subject request must:
-
-- Forward it to the Data Protection Officer immediately
-- Not attempt to handle the request without authorisation
-- Not discuss the request with unauthorised parties
-
----
-
-## Approval
-
-| Role | Name | Signature | Date |
-|---|---|---|---|
-| Data Protection Officer | | | |
-| Information Security Lead | | | |
-| CEO or Director | | | |
-
----
-
-*Developed by TrustGrid Technology Limited — github.com/TechShieldOlamide*
+1. Process withdrawal
