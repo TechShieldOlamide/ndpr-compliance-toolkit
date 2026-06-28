@@ -1,4 +1,4 @@
-# NDPR Internal Audit Template
+# NDPA 2023 Internal Audit Template
 
 **Version:** 1.0  
 **Last Updated:** June 2026  
@@ -11,7 +11,7 @@
 
 ## 1. Purpose
 
-This template guides organisations through an internal audit of their NDPR compliance posture. It covers all key areas of the regulation and produces a clear picture of compliance gaps and remediation priorities.
+This template guides organisations through an internal audit of their NDPA 2023 compliance posture. It covers all key areas of the Act and produces a clear picture of compliance gaps and remediation priorities.
 
 ---
 
@@ -26,7 +26,7 @@ This template guides organisations through an internal audit of their NDPR compl
 | Third party processors | | |
 | Data breach management | | |
 | Staff training | | |
-| NITDA registration | | |
+| NDPC registration | | |
 
 ---
 
@@ -98,7 +98,7 @@ This template guides organisations through an internal audit of their NDPR compl
 | Audit Question | Finding | Compliant | Gap Identified |
 |---|---|---|---|
 | Is a data breach response procedure documented? | | Yes / No | |
-| Is there a process to notify NITDA within 72 hours? | | Yes / No | |
+| Is there a process to notify NDPC within 72 hours? | | Yes / No | |
 | Is a breach register maintained? | | Yes / No | |
 | Have staff been trained on breach reporting? | | Yes / No | |
 
@@ -119,18 +119,18 @@ This template guides organisations through an internal audit of their NDPR compl
 
 | Audit Question | Finding | Compliant | Gap Identified |
 |---|---|---|---|
-| Have all staff received NDPR awareness training? | | Yes / No | |
+| Have all staff received NDPA awareness training? | | Yes / No | |
 | Is training conducted at least annually? | | Yes / No | |
 | Are training records maintained? | | Yes / No | |
 | Do new starters receive training before accessing personal data? | | Yes / No | |
 
 ---
 
-### 3.9 NITDA Registration and Reporting
+### 3.9 NDPC Registration and Reporting
 
 | Audit Question | Finding | Compliant | Gap Identified |
 |---|---|---|---|
-| Is the organisation registered with NITDA where required? | | Yes / No | |
+| Is the organisation registered with NDPC where required? | | Yes / No | |
 | Has the annual data protection audit been filed? | | Yes / No | |
 | Has a licensed DPCO been engaged where required? | | Yes / No | |
 
@@ -148,7 +148,7 @@ This template guides organisations through an internal audit of their NDPR compl
 | Data Breach Management | | |
 | Third Party Processors | | |
 | Staff Training | | |
-| NITDA Registration | | |
+| NDPC Registration | | |
 
 ---
 
